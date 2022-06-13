@@ -1,0 +1,12 @@
+.container-fluid {
+    margin-top: 20px;
+    display: flex;
+    padding: 2em;
+    justify-content: space-evenly;
+}
+
+.list-group{
+    display: flex;
+    flex-flow: column wrap;
+}
+
